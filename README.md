@@ -94,6 +94,7 @@ Visualized `Actual vs Predicted` closing prices over the test period.
 plt.plot(y_test.index, y_test, label="Actual")
 plt.plot(y_test.index, y_pred, label="Predicted")
 
+```
 ---
 
 ## Final Summary
